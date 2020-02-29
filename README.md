@@ -25,8 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+**Michael Scott is very confused**
 
-![image](https://media.giphy.com/media/iHe7mA9M9SsyQ/giphy.gif)
+![image](https://media.giphy.com/media/5wWf7H89PisM6An8UAU/giphy.gif)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
